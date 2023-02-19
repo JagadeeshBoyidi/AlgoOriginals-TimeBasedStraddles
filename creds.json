@@ -1,0 +1,9 @@
+{
+    "access_token":"<Enter your access token here>",
+    "userid":"<Enter your userid here",
+    "consumer_key":"<Enter your consumer key here>",
+    "password": "<Enter your password here>",
+	"bot_token":"<Enter your telegram bot token>",
+	"chat_id":"<Enter your telegram chat id>"
+
+}

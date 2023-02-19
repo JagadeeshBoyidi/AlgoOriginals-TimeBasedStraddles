@@ -1,0 +1,5 @@
+pandas
+python-telegram-bot
+requests
+hyper
+openpyxl
